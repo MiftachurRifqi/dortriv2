@@ -7,5 +7,5 @@
 4. $pkg install git
 5. $pkg install curl
 6. $git clone https://github.com/MiftachurRifqi/dortriv2
-7. $cd dortri
+7. $cd dortriv2
 8. $php dortriv2.php --three
